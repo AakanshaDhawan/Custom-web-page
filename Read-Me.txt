@@ -1,0 +1,1 @@
+Custom page using Bootstrap, HTML and Css showing having navigation bar, a responisive page,a table ,floating styles
